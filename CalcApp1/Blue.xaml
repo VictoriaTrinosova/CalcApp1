@@ -4,7 +4,7 @@
         <Setter Property="Control.Background" Value="#696969	"/>
     </Style>
     <Style x:Key="TextBlockStyle" BasedOn="{StaticResource WindowStyle}">
-        <Setter Property="TextBlock.Foreground"  Value="White"/>
+        <Setter Property="TextBlock.Foreground"  Value="#0000FF"/>
         <Setter Property="TextBlock.Background" Value="#00FFFF"/>
     </Style>
 </ResourceDictionary>
